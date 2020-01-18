@@ -1,4 +1,5 @@
 #This pgm prints Hello 
-print ("hello")
+print("hello")
+print("World")
 
 
