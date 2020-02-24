@@ -1,6 +1,8 @@
+
 #This pgm prints Hello 
-print("hello")
-print("World")
+
+print("hello World")
+#print("World")
 print("Modified on Yoga")
 
 print("Hello")
