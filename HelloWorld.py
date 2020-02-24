@@ -2,10 +2,10 @@
 #This pgm prints Hello 
 
 print("hello World")
-#print("World")
+
 print("Modified on Yoga")
 
-print("Hello")
+
 
 print("__name__ value: ", __name__)
 
