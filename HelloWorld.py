@@ -1,16 +1,10 @@
 
 
 #This pgm prints Hello 
-
-
 print("Hello World")
-
-print("Modified on Yoga")
-
-
+print("Modified on Asus")
 
 print("__name__ value: ", __name__)
-
 
 def main():
     print("python main function")
